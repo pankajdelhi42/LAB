@@ -1,0 +1,137 @@
+			Core java-DAY2
+Introduction to java
+   what is java
+   features of java
+   application of java
+   components of java
+   how java works
+   platform independence
+   Helloworld  program in Java
+         using note pad
+
+
+
+Helloworld  program in Java
+         using eclipse
+
+workspace
+  project
+     java project
+          Day1
+            src
+              class
+data types
+
+A data type in java defines the type of value
+   a variable can store
+   how memory the variable required
+   
+int sid = 10001
+
+byte b = 100;
+
+
+two kind of data types 
+1) primitives
+Integer
+
+byte   1 byte 8 bit
+short  2 byte
+int    4
+long   8
+
+floating
+
+float
+
+float price = 999.99f
+double
+
+char
+
+grade = 'A'
+
+Boolean
+   ispaid = true
+
+2) non primitives
+
+String
+    String name = "nsnathan"
+Array
+
+    int[] num = new int[4]
+ 
+class Emp
+{
+    int emp
+    String name
+   float sal;
+}
+    
+  Emp e1 = new Emp()
+
+variable
+1) local variable
+
+    a variable declared inside the method is called method is called
+    local variable
+   
+   the scope of the variable will be with in the method only
+
+
+
+2) instance variable
+3) static variable
+
+
+
+variable is name to a memory location
+contain data
+
+displayStudent
+
+method
+
+reading data from console
+
+static method
+- no need of class reference to access or to call
+- it can be access directly using the method name or classname.methodname;
+
+non static method
+need class referece to call or to access
+
+
+reading data from console
+
+class Scanner
+{
+public  int nextInt()
+{
+
+
+---
+
+--
+
+read from consol
+}
+
+}
+
+
+Scanner s = new Scanner()
+s.nextInt()
+
+
+
+
+
+
+
+operator
+conditional statement 
+  if
+
+
