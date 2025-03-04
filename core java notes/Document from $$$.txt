@@ -1,0 +1,179 @@
+			Core java- DAY1
+Part I
+Introduction to java
+data types
+variables
+operators
+conditional and control statements
+method
+array
+part II
+oops
+
+classes and objects
+encapsulation
+inheritance
+polymorphism
+   method overloading
+   method overriding
+abstraction
+   abstract class
+   interface
+
+access specifier
+public
+default
+protected
+private
+
+keyword
+this
+super
+final
+
+
+part III
+packages
+exception- java.lang
+collection- data structure- java.util
+file handling- java.io
+socket programming-java.net
+jdbc - java.sql
+multithreading- java.lang
+
+
+extra topics
+
+lambda
+Enum
+generics
+stream API
+------------------------------------------------------------
+Introduction to java
+
+what is java
+  java is a high level ,object oriented language developed by 
+james Gosling at sun microsystem in 1995
+
+features of java
+
+simple
+robust
+secure
+platform independence
+write ones run on anywhere
+wora
+portable
+multithreaded
+dynamic
+
+application  of java
+1) desktop application-antivirus,gaming,msoffice,
+       java SE
+
+  
+2) web application- cdac.in, 
+         
+      Java EE
+servlet,jsp,spring,
+   
+3) enterprise application- banking
+      
+      Java EE
+      - Ejb
+
+4) mobile application -Android
+    Java ME 
+
+5) Gaming
+
+6) cloud application
+
+7) data science AI/ML
+-----------------------------------------------------------
+
+components of java
+
+jdk(jre+jvm)- java development kit
+
+ used to develop and execute the java application
+
+
+jre(jvm)- you can only run the java application
+
+
+jvm - java virtual machine 
+    - it used to interpret the java byte(.class) code
+      to machine readable code(000010010) 
+
+
+how java works
+
+Hello.java --->compiler-->Hello.class-->jvm-->0001>>output
+
+
+platform independence
+
+
+HelloWorld program in java
+
+notepad
+
+#include<stdio.h>
+void main()
+{
+
+
+
+}
+
+class Hello
+{
+
+public static void main(String arg[])
+{
+
+   System.out.println("Hello world");
+}
+
+}
+
+
+
+
+
+
+
+
+eclipse
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
